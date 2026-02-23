@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning proogramçao...
 - 💞️ I’m looking to collaborate on ajudar de resolver problemas do dia a dia
 - 📫 How to reach me contato +55 (86) 99983-8506
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ele
+- ⚡ Fun fact: sou viciado em resolver problema
 
 <!---
 RyanDaSilva01/RyanDaSilva01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
